@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ROWDY-MACHINE</Machine>
+    <WindowsUser>Rathore</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>2F03FABF311BDF4B350DC8E2564BBF6743F8C6C50A37FAACA9C576120769EE7F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>2dbf0c26-5cbe-44e9-b128-cf07c4aab57e_1.0.0.0_neutral__6ztvnzvghw9ry</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>2dbf0c26-5cbe-44e9-b128-cf07c4aab57e_6ztvnzvghw9ry!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>2dbf0c26-5cbe-44e9-b128-cf07c4aab57e</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Rathore</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-09-17T14:20:27.291</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\WaterMarkProject.exe">
+      <PackagePath>WaterMarkProject.exe</PackagePath>
+      <Modified>2012-09-17T14:37:10.142</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\WaterMarkProject.pdb">
+      <PackagePath>WaterMarkProject.pdb</PackagePath>
+      <Modified>2012-09-17T14:37:10.101</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T03:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-09-15T13:16:53.531</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\Themes\Generic.xaml">
+      <PackagePath>Themes\Generic.xaml</PackagePath>
+      <Modified>2012-09-17T14:17:06.366</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-09-15T14:55:25.120</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-09-17T14:31:58.925</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Rathore\documents\visual studio 2012\Projects\WaterMarkProject\WaterMarkProject\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-09-17T13:59:00.298</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
