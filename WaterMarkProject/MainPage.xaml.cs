@@ -44,7 +44,6 @@ namespace WaterMarkProject
         {
             TextBox tb = sender as TextBox;
             Debug.WriteLine("text is:" + tb.Text);
-            tb.Text = "*";
         }
     }
 }
