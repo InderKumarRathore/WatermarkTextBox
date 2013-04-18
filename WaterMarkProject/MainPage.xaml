@@ -8,9 +8,8 @@
     mc:Ignorable="d">
 
     <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
-        <Grid Margin="300,200,0,0" Height="500" Width="500" Background="Red">
+        <Grid Margin="300,200,0,0" Height="500" Width="500">
             <local:WatermarkTextBox KeyDown="WatermarkTextBox_KeyDown_1" TextChanged="WatermarkTextBox_TextChanged_1" WatermarkForeground="Red"  Watermark="edit text" Padding="15,10,0,0" Foreground="Blue" FontFamily="Segoe UI" Height="100" Width="300" FontSize="18"/>
         </Grid>
-        <PasswordBox HorizontalAlignment="Left" Margin="176,152,0,0" VerticalAlignment="Top"/>
     </Grid>
 </Page>
